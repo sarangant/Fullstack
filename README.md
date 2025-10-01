@@ -4,3 +4,4 @@ Test af fullstack
 Skoleprojekt for læring af Github samt gruppearbejde.
 
 Frontend kører med Reactjs og Nodejs.
+Backend kører på Express server.
